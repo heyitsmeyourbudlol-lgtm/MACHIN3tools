@@ -4,3 +4,5 @@ Needle: OVERSEER_KIT_RUN_AE_2026_09_07
 Repo: MACHIN3tools
 ts: 20260910T004243
 NO PAY
+
+<!-- direct-main MACHIN3tools 1789015812 -->
